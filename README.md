@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singh2005
-- 👀 I’m interested in improving microservices, scalability and reliability
+- 👀 I’m interested in improving software scalability and reliability
 - 🌱 I’m currently learning GCP and Kubernetes
 - 💞️ I’m want to collaborate on building simple solutions for solving hard problems
 
