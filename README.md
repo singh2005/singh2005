@@ -6,7 +6,7 @@ I'm an experienced Site Reliability Engineer specializing in **performance, scal
 ## 💼 What I'm Working On
 - **Infrastructure automation** using **Terraform**
 - **Scalable system design** for high-traffic applications
-- **CD/CD pipelines** for efficient software delivery
+- **CI/CD pipelines** for efficient software delivery
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shailendra-singh-596a7625/)
