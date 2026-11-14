@@ -1,5 +1,4 @@
 ### 👋 Shailendra Singh
-**Principal / Staff SRE & Cloud Infrastructure Architect**
 
 I architect resilient, event-driven distributed systems, high-scale observability platforms, and zero-to-one cloud products. My work focuses on turning complex operational bottlenecks into self-healing, automated infrastructure—from multi-cloud serverless pipelines and Infrastructure-as-Code at scale to high-throughput performance engineering.
 
